@@ -1,0 +1,62 @@
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E01/main.c 15     printf("%d ", n);
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E01/main.c 17   printf("\n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E01/main.c 19     printf("%d ", solution[n]);
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E01/main.c 21   printf("\n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E01/main.c 25   printf("\n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E01/main.c 42     printf("%d ", n);
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E01/main.c 44   printf("\n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E01/main.c 46     printf("%d ", solution[n]);
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E01/main.c 48   printf("\n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E01/main.c 76     printf("%d %d\n", S[i][0], S[i][1]);
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E01/main.c 79   printf("opt(%d) = %d\n", S_len, opt(S_len - 1, S, S_len));
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E01/main_recursive.c 11   printf("opt(%d)\n", i);
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E01/main_recursive.c 56     printf("%d %d\n", S[i][0], S[i][1]);
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E01/main_recursive.c 59   printf("opt(0) = %d\n", opt(0, S));
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E01/main_recursive.c 60   printf("opt(%d) = %d\n", S_len, opt(S_len - 1, S));
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E02/main.c 29     printf("len = %d\n", len);
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E02/main.c 30     printf("offset = %d\n", offset);
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E02/main.c 31     printf("%d %d %d %d\n", s, e, r, t);
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E02/main.c 107     printf("TEST #%d\n", i + 1);
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E02/main.c 108     printf("zaffiro = %d, rubino = %d, topazio = %d, smeraldo = %d, TOT = %d\n",
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E02/main.c 133     printf("Collana massima di lunghezza %d\n", best);
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E02/main_static_cache.c 113     printf("TEST #%d\n", i + 1);
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E02/main_static_cache.c 114     printf("zaffiro = %d, rubino = %d, topazio = %d, smeraldo = %d, TOT = %d\n",
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E02/main_static_cache.c 124     printf("Collana massima di lunghezza %d\n", best);
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/character.c 10   printf("PG%d %s %s equipment(%d) %d %d %d %d %d %d\n", c.id, c.name, c.class,
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/character.c 40   printf("PG%d %s %s equipment(%d) %d %d %d %d %d %d\n", c.id, c.name, c.class,
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/character.c 59 //     printf("bad format\n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/character_list.c 111   printf("before");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/character_list.c 113   printf("asdawdaw");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/character_list.c 120     printf("loading");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/character_list.c 137 //   printf("insert a character  ");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/character_list.c 144 //     printf("bad format\n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/character_list.c 175 //   printf("insert character_t code to select  ");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/character_list.c 178 //   printf("insert object name to equip  ");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/character_list.c 184 //     printf("Unknown character\n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/character_list.c 189 //     printf("Unknown object\n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/character_list.c 195 //     printf("Failed to insert\n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/character_list.c 204 //   printf("insert character_t code to select  ");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/character_list.c 207 //   printf("insert object name to unequip  ");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/character_list.c 213 //     printf("Unknown character\n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/character_list.c 217 //     printf("Unknown object\n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/character_list.c 222 //     printf("Failed to remove\n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/client.c 56     printf("> ");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/client.c 58       printf("\n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/client.c 70       printf("aAAAAAAAAA");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/client.c 98       printf("insert character code to remove  ");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/client.c 117       printf("Insert a character's id whose stats you want  ");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/client.c 123       printf("Character without equipment \n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/client.c 126       printf("Character with equipment \n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/client.c 132       printf("unknown command\n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/client.c 136     printf("\n**** DEBUG ****\n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/client.c 138     printf("\n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/client.c 140     printf("\n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/client.c 142     printf("**** DEBUG ****\n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/equipment_array.c 5   printf("created new equipment array\n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/equipment_array.c 15   printf("called");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/equipment_array.c 41     printf("%zu ", i);
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/equipment.c 9   printf("equipment  in_use = %d\n", eq.in_use);
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/inventory_array.c 17 //     printf("[%zu] = ", i);
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/inventory_array.c 23 //       printf("[%p], ", (void *)item);
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/inventory_array.c 26 //     printf("\n");
+../../../../AlgoritmiEProgrammazione/AlgoritmiEProgrammazionePolito20182019/L09/E03/inventory.c 9   printf("%s %s %d %d %d %d %d %d\n", o.name, o.type, o.stats.hp, o.stats.mp,
